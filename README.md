@@ -3,7 +3,7 @@
 
 # 💫 About Me:
 🌱 I’m currently learning full-stack web development <br>💬 Ask me about HTML, CSS, JS, ReactJS, Nodejs, MongoDB <br>📩 Mail me at - onkarok0273.1@gmail.com<br>📃 Have a look at my resume - [link](https://drive.google.com/file/d/10caKf20AnU9VYco2-Nj4q6VsuQqDUbjc/view?usp=share_link)<br>
-😎 Have a look at my Portfolio = [link](https://onkark0273.github.io/)
+😎 Have a look at my Portfolio - [link](https://onkark0273.github.io/)
 
 
 # 🌐 Socials:
